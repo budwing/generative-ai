@@ -1,1 +1,2 @@
-# generative-ai
+# 揭密生成式AI开发
+生成式AI开发相关代码示例
