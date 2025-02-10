@@ -12,6 +12,6 @@ audio_array = audio["audio"][0]
 sampling_rate = audio["sampling_rate"]
 
 # 保存为 .wav 文件
-output_file = "output.wav"
+output_file = "res/output5.4.wav"
 write(output_file, sampling_rate, (audio_array * 32767).astype(np.int16))
 print(f"Audio saved to {output_file}")
