@@ -1,7 +1,6 @@
 import numpy as np
 import librosa
 import matplotlib.pyplot as plt
-import librosa.displa
 
 array, sampling_rate = librosa.load(librosa.ex("trumpet"))
 # 计算短时傅里叶变换并转换为分贝

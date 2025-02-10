@@ -1,3 +1,5 @@
+# 需要安装simpleaudio
+# pip install simpleaudio
 import librosa
 import matplotlib.pyplot as plt
 import librosa.display
