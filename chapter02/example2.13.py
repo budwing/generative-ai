@@ -1,15 +1,15 @@
-# 父类1
-class PipelineSuperClass1:
+# 父类_ScikitCompat
+class _ScikitCompat:
     def __init__(self):
         super().__init__()
-        print("super1 is initializing")
-# 父类2
-class PipelineSuperClass2:
+        print("_ScikitCompat is initializing")
+# 父类PushToHubMixin
+class PushToHubMixin:
     def __init__(self):
         super().__init__()
-        print("super2 is initializing")
-# 管道类继承自PipelineSuperClass1, PipelineSuperClass2
-class Pipeline(PipelineSuperClass1, PipelineSuperClass2):
+        print("PushToHubMixin is initializing")
+# 管道类继承自_ScikitCompat, PushToHubMixin
+class Pipeline(_ScikitCompat, PushToHubMixin):
     # 构造方法
     def __init__(self, model, tokenizer, **kwargs):
         super().__init__()
