@@ -1,2 +1,2 @@
-# 揭密生成式AI开发
-生成式AI开发相关代码示例
+# Demystifying Generative AI Development
+This repository includes the examples of generative AI development.
