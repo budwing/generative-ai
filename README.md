@@ -1,2 +1,7 @@
-# Demystifying Generative AI Development
-This repository includes the examples of generative AI development.
+# 生成式AI开发揭秘：大模型详解
+
+本代码库包含《生成式AI开发揭秘：大模型详解》全部源代码及相关章节摘要说明，该书是一本介绍生成式AI开发技术的全景图书，从生成式AI基本概念开始带领读者逐步走上AI开发之路。
+点击目录查看各章主要内容及相关示例代码：
+
+
+[第一章 走进生成式AI](./chapter01/chapter01.ipynb)
