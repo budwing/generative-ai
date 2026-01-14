@@ -4,4 +4,7 @@
 
 
 [第一章  走进生成式AI](./chapter01/chapter01.ipynb)
+
 [第二章  开发生成式AI](./chapter02/chapter02.ipynb)
+
+[第三章  转换器架构](./chapter03/chapter03.ipynb)
