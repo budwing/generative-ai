@@ -8,3 +8,5 @@
 [第二章  开发生成式AI](./chapter02/chapter02.ipynb)
 
 [第三章  转换器架构](./chapter03/chapter03.ipynb)
+
+[第四章  自然语言处理](./chapter04/chapter04.ipynb)
