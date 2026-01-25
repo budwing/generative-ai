@@ -10,3 +10,7 @@
 [第三章  转换器架构](./chapter03/chapter03.ipynb)
 
 [第四章  自然语言处理](./chapter04/chapter04.ipynb)
+
+[第五章  音频处理](./chapter05/chapter05.ipynb)
+
+本书前言部分包括有作者邮箱，欢迎读者在阅读过程与作者沟通，共同提升本书内容的质量与价值。
